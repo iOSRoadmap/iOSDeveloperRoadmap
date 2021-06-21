@@ -3,7 +3,6 @@
 # How to use?
 This roadmap is a suggested set of topics you need to learn iOS to become iOS Developer. This list isn't complete, at every job you will come across an individual set. 
 
-
 ![iOS Roadmap](https://github.com/iOSRoadmap/iOSDeveloperRoadmap/blob/main/iOS-Developer.png)
 
 # Contribute 📚
